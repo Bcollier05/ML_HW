@@ -3,7 +3,7 @@
 # FILENAME: decision_tree_2.py
 # SPECIFICATION: Decision Tree Classifier for contact lens dataset
 # FOR: CS 4210 - Assignment #2
-# TIME SPENT: <fill this in>
+# TIME SPENT: 
 #-----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY SUCH AS numpy OR pandas.
