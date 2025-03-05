@@ -3,7 +3,7 @@
 # FILENAME: knn.py
 # SPECIFICATION: Implement 1-Nearest Neighbor (1NN) for email classification using Leave-One-Out Cross-Validation (LOO-CV)
 # FOR: CS 4210 - Assignment #2
-# TIME SPENT: <fill this in>
+# TIME SPENT: 
 #-----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas.
